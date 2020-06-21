@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ printSummary()
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=int\ getNumInStock()
+comment4.params=price
+comment4.target=void\ sellOneCopy(double)
+comment5.params=
+comment5.target=void\ sellOneCopy()
+comment6.params=initCustomer\ initPeriodical
+comment6.target=void\ sellOneCopy(Customer,\ Periodical)
+comment7.params=stock\ day\ month\ year
+comment7.target=void\ restock(int,\ int,\ int,\ int)
+comment8.params=
+comment8.target=double\ getTotalSales()
+comment9.params=initId\ initStock\ initTitle\ initCoverPrice
+comment9.target=Periodical(int,\ int,\ java.lang.String,\ double)
+numComments=10
